@@ -1,0 +1,8 @@
+{
+  "name": "Controle de Dias Trabalhados",
+  "description": "Calendário visual minimalista para acompanhamento de dias trabalhados e meio turno.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
